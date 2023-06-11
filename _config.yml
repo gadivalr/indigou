@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Gadi Sojos
+bio: A Person who develops software with coffee
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/msss.jpeg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -31,29 +31,24 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
 twitter: mytwitter
-instagram: myinstagram
+instagram: gadi.valar
 linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+github: gadivalr
+email: gaddean21@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
+  Gadi:
+    name: Gadi Sojos
     bio: A Man who develops software with coffee
     external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/msss.jpeg
+    twitter: johndoe
+  
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
